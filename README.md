@@ -1,10 +1,8 @@
-
-![Customer Churn Prediction](image-3.png)
-
-
 # README.
 
 ## SYRIATEL CUSTOMER CHURN.
+
+![Customer Churn Prediction](image-3.png)
 
 1. Project Overview / Background
 
