@@ -42,11 +42,11 @@ In a fiercely competitive market, SyriaTel telecommunications company aims to en
 To predict customer churn using a machine learning classification algorithm model
 
 - Specific objectives:
-To do exploratory data analysis on the dataset
-To fit different classification algorithm models to determine which one works best for churn prediction
-To select the best model
-To make predictions using the selected model
-To check the accuracy of the predicted variables
+    - To do exploratory data analysis on the dataset
+    - To fit different classification algorithm models to determine which one works best for churn prediction
+    - To select the best model
+    - To make predictions using the selected model
+    - To check the accuracy of the predicted variables
 
 ### Business Understanding.
 SyriaTel, a telecommunications company, is experiencing severe churn, with many consumers abandoning its services and migrating to competitors. The company intends to address this issue by creating a churn prediction model. SyriaTel hopes to obtain insights into churn-related factors through analyzing the dataset, with the goal of lowering churn, increasing customer retention, and enhancing overall profitability.
